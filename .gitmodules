@@ -1,0 +1,3 @@
+[submodule "latin-embeddings-comparison/models/data/cc100-latin"]
+	path = latin-embeddings-comparison/models/data/cc100-latin
+	url = https://huggingface.co/datasets/pstroe/cc100-latin
